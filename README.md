@@ -449,8 +449,4 @@ The project is designed to be extensible and scalable, with several avenues for 
 
 - [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
 
-# Authors
-Nguyen Trung Nghia
-- Contact: trungnghia294@gmail.com
-- GitHub: [Ren294](https://github.com/Ren294)
-- Linkedln: [tnghia294](https://www.linkedin.com/in/tnghia294/)
+
